@@ -6,7 +6,7 @@ When a quick client-side tool is needed
 
 [Click Me to See Live Demo](https://nmsuri28.github.io/Contact-from-the-client-side/)
 
-# Other Technologies Used
+# Other Tech & Tools Used
 
 * Email.js
 * Sendgrid
@@ -20,8 +20,8 @@ When a quick client-side tool is needed
 
 # Installation 
 
-git clone 'this repo'
-cd 'this repo'
+* git clone 'this repo'
+* cd 'this repo'
 >npm install
 
 # Contact Me
