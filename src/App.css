@@ -1,38 +1,51 @@
-.App {
-  text-align: center;
+h1 , h3{
+  font-family: 'Bebas Neue', cursive;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p, label{
+  font-family: 'Indie Flower', cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.backgroundImg{
+  background-image: url(./assets/WallsField.com-Connection-Original.jpg);
+  background-size: cover;
+  background-position: top;
+  height: 700px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.textCss{
+  margin-top: 200px;
+  background-color: rgba(146, 146, 146, 0.34) ;
+  color: #f8f3e7;
 }
 
-.App-link {
-  color: #61dafb;
+.formTitle , i{
+  color: rgb(191, 164, 98)
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn{
+  background-color: #545b62;
+  border-color: rgb(191, 164, 98) ;
+  color:#f8f3e7;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.navbar{
+  background-color: rgba(146, 146, 146, 0.34);
+  height:40px;
+}
+
+.navbar p{
+  color:#8f7945b7;
+  font-size: 10pt;
+  cursor: pointer;
+}
+
+.response{
+  color:  #545b62;
+  height: 125px;
+}
+
+.response > p{
+  font-size: 14pt;
 }
