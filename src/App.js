@@ -26,11 +26,12 @@ function App() {
       </div>
       </div>
     
-
+      
       <Contact/>
           
            
       <nav class="navbar fixed-bottom navbar-light ">
+        {/* Linked to my linkedin */}
   <a class="navbar-brand" href="https://www.linkedin.com/in/natosha-arringtion-676263165/">
     <p >Created by Natosha Arrington</p>
   </a>
