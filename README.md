@@ -2,17 +2,21 @@
 
 When a quick client-side tool is needed
 
+# Live Version
+
+[Click Me to See Live Demo](https://nmsuri28.github.io/Contact-from-the-client-side/)
+
 # Other Technologies Used
 
-..* Email.js
-..* Sendgrid
-..* GoogleFonts
-..* Bootstrap 4
+* Email.js
+* Sendgrid
+* GoogleFonts
+* Bootstrap 4
 
 # What you will need before installing
-..* Sendgrid Account and API Key
-..* Email.js Account that has Sendgrid API Key Integration. 
-..* Email.js User Id, template ID, service ID
+* Sendgrid Account and API Key
+* Email.js Account that has Sendgrid API Key Integration. 
+* Email.js User Id, template ID, service ID
 
 # Installation 
 
