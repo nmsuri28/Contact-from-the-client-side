@@ -2,9 +2,6 @@
 
 When a quick client-side tool is needed
 
-# Live Version
-
-[Click Me to See Live Demo](https://nmsuri28.github.io/Contact-from-the-client-side/)
 
 # Other Tech & Tools Used
 
