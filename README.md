@@ -2,6 +2,8 @@
 
 When a quick client-side tool is needed
 
+# Deployment
+[Click here to see live version](https://nmsuri28.github.io/clientsidecontact/)
 
 # Other Tech & Tools Used
 
@@ -20,6 +22,9 @@ When a quick client-side tool is needed
 * git clone 'this repo'
 * cd 'this repo'
 >npm install
+
+# Other notes
+Form validation is not included in this repo. 
 
 # Contact Me
 Natosha@creativeHotMess | https://www.linkedin.com/in/natosha-arringtion-676263165/
