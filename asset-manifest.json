@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Contact-from-the-client-side/static/css/main.5fb33038.chunk.css",
+    "main.js": "/Contact-from-the-client-side/static/js/main.262649fd.chunk.js",
+    "main.js.map": "/Contact-from-the-client-side/static/js/main.262649fd.chunk.js.map",
+    "runtime-main.js": "/Contact-from-the-client-side/static/js/runtime-main.6a5d3c20.js",
+    "runtime-main.js.map": "/Contact-from-the-client-side/static/js/runtime-main.6a5d3c20.js.map",
+    "static/js/2.b695fa46.chunk.js": "/Contact-from-the-client-side/static/js/2.b695fa46.chunk.js",
+    "static/js/2.b695fa46.chunk.js.map": "/Contact-from-the-client-side/static/js/2.b695fa46.chunk.js.map",
+    "index.html": "/Contact-from-the-client-side/index.html",
+    "precache-manifest.28655703772d51dcddcfc1bb818ec921.js": "/Contact-from-the-client-side/precache-manifest.28655703772d51dcddcfc1bb818ec921.js",
+    "service-worker.js": "/Contact-from-the-client-side/service-worker.js",
+    "static/css/main.5fb33038.chunk.css.map": "/Contact-from-the-client-side/static/css/main.5fb33038.chunk.css.map",
+    "static/js/2.b695fa46.chunk.js.LICENSE.txt": "/Contact-from-the-client-side/static/js/2.b695fa46.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Contact-from-the-client-side/static/media/WallsField.com-Connection-Original.f76f0cba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a5d3c20.js",
+    "static/js/2.b695fa46.chunk.js",
+    "static/css/main.5fb33038.chunk.css",
+    "static/js/main.262649fd.chunk.js"
+  ]
+}
